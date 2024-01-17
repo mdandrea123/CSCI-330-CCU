@@ -1,0 +1,16 @@
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.AssemblyInfo.cs
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.sourcelink.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/bin/Debug/net5.0/project
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/bin/Debug/net5.0/project.deps.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/bin/Debug/net5.0/project.runtimeconfig.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/bin/Debug/net5.0/project.runtimeconfig.dev.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/bin/Debug/net5.0/project.dll
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/bin/Debug/net5.0/project.pdb
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.dll
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/refint/project.dll
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.pdb
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/project.genruntimeconfig.cache
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/project/obj/Debug/net5.0/ref/project.dll

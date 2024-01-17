@@ -1,0 +1,16 @@
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/bin/Debug/net5.0/sample1
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/bin/Debug/net5.0/sample1.deps.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/bin/Debug/net5.0/sample1.runtimeconfig.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/bin/Debug/net5.0/sample1.runtimeconfig.dev.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/bin/Debug/net5.0/sample1.dll
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/bin/Debug/net5.0/sample1.pdb
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.AssemblyInfo.cs
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.sourcelink.json
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.dll
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/refint/sample1.dll
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.pdb
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/sample1.genruntimeconfig.cache
+/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/Debug/net5.0/ref/sample1.dll
