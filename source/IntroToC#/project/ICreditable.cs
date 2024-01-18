@@ -4,7 +4,6 @@ namespace project
 {
     public interface ICreditable
     {
-        int Credits {get; set;}
-        bool HasCredits();
+        public int Credits {get; set;}
     }
 }

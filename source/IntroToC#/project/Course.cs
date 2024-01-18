@@ -20,11 +20,5 @@ namespace project
         {
             return this.Name.CompareTo(other.Name);
         }
-
-        public bool HasCredits()
-        {
-            return Credits > 0;
-        }
     }
-
 }
