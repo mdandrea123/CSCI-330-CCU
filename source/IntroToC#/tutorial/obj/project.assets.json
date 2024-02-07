@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/sample1.csproj",
+      "projectUniqueName": "/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/tutorial/sample1.csproj",
       "projectName": "sample1",
-      "projectPath": "/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/sample1.csproj",
+      "projectPath": "/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/tutorial/sample1.csproj",
       "packagesPath": "/Users/michaeldandrea/.nuget/packages/",
-      "outputPath": "/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/sample1/obj/",
+      "outputPath": "/Users/michaeldandrea/Desktop/Git Repos/CSCI-330-CCU/source/IntroToC#/tutorial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/michaeldandrea/.nuget/NuGet/NuGet.Config"

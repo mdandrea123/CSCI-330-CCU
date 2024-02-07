@@ -11,7 +11,7 @@ namespace project
             {
                 Name = "CSCI 330",
                 Title = "System Analysis/Software Engineering",
-                Credits = 3,
+                Credits = 3.0,
                 Description = "Welcome to CSCI 330 Systems Analysis and Software Engineering!"
             };
 
@@ -19,7 +19,7 @@ namespace project
             {
                 Name = "CSCI 390",
                 Title = "Theory of Computation",
-                Credits = 3,
+                Credits = 3.0,
                 Description = "Welcome to CSCI 390 Theory of Computation!"
             };
 
@@ -27,7 +27,7 @@ namespace project
             {
                 Name = "CSCI 385",
                 Title = "Intro to Information Security",
-                Credits = 3,
+                Credits = 3.0,
                 Description = "Welcome to CSCI 385 Intro to Information Security!"
             };
 
@@ -35,7 +35,7 @@ namespace project
             {
                 Name = "CSCI 401",
                 Title = "Ethics & Professional Issues",
-                Credits = 3,
+                Credits = 3.0,
                 Description = "Welcome to CSCI 401 Ethics & Professional Issues!"
             };
 
@@ -43,7 +43,7 @@ namespace project
             {
                 Name = "STAT 201",
                 Title = "Elementary Statistics",
-                Credits = 4,
+                Credits = 4.0,
                 Description = "Welcome to STAT 201 Elementary Statistics!"
             };
 
@@ -51,7 +51,7 @@ namespace project
             {
                 Name = "CSCI 356",
                 Title = "Operating Systems",
-                Credits = 3,
+                Credits = 3.0,
                 Description = "Welcome to CSCI 356 Operating Systems!"
             };
 
@@ -90,7 +90,18 @@ namespace project
     {
         public int Compare(Course x, Course y)
         {
-            return x.Credits.CompareTo(y.Credits);
+            if (x.Credits > y.Credits)
+            {
+                return 1;
+            }
+            else if (x.Credits < y.Credits)
+            {
+                return -1;
+            }
+            else
+            {
+                return 0;
+            }
         }
     }
 }
