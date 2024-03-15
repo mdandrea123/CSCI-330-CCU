@@ -49,7 +49,7 @@ namespace MovieApi.Controllers
             return BadRequest();
         }
 
-        [HttpGet("year/")]
+        [HttpGet("year/{year}")]
         public IActionResult GetMovieByYear(int year)
         {
             foreach (Movie m in movies)
