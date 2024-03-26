@@ -1,0 +1,221 @@
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs330courses.deps.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs330courses.runtimeconfig.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs330courses.runtimeconfig.dev.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs330courses
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.deps.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.runtimeconfig.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.runtimeconfig.dev.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.pdb
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Castle.Core.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/testhost.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Moq.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/System.Diagnostics.EventLog.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/xunit.abstractions.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/xunit.assert.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/xunit.core.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs330courses.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/bin/Debug/net5.0/cs330courses.pdb
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.csproj.AssemblyReference.cache
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.AssemblyInfo.cs
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.csproj.CopyComplete
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/refint/CourseProject.Tests.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.pdb
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.genruntimeconfig.cache
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject.Tests/obj/Debug/net5.0/ref/CourseProject.Tests.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs330courses.deps.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs330courses.runtimeconfig.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs330courses.runtimeconfig.dev.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs330courses
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.deps.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.runtimeconfig.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.runtimeconfig.dev.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/CourseProject.Tests.pdb
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Castle.Core.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/testhost.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Moq.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/System.Diagnostics.EventLog.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/xunit.abstractions.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/xunit.assert.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/xunit.core.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs330courses.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/bin/Debug/net5.0/cs330courses.pdb
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.csproj.AssemblyReference.cache
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.AssemblyInfo.cs
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.sourcelink.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.csproj.CopyComplete
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/refint/CourseProject.Tests.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.pdb
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/CourseProject.Tests.genruntimeconfig.cache
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject.Tests/obj/Debug/net5.0/ref/CourseProject.Tests.dll

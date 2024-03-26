@@ -1,0 +1,7 @@
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping_DateProject.Tests
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject.Tests/obj/Debug/net5.0/DateProject.Tests.csproj.AssemblyReference.cache
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject.Tests/obj/Debug/net5.0/DateProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject.Tests/obj/Debug/net5.0/DateProject.Tests.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject.Tests/obj/Debug/net5.0/DateProject.Tests.AssemblyInfo.cs
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject.Tests/obj/Debug/net5.0/DateProject.Tests.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject.Tests/obj/Debug/net5.0/DateProject.Tests.sourcelink.json

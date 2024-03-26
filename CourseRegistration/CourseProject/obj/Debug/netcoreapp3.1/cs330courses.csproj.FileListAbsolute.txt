@@ -1,0 +1,27 @@
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/bin/Debug/netcoreapp3.1/cs330courses
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.deps.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.runtimeconfig.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.runtimeconfig.dev.json
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.pdb
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.AssemblyInfo.cs
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.dll
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.pdb
+/Users/michaeldandrea/Downloads/cs330-course-registration-cadegore-25def275bf65f90ef023001727560b9a5615e644/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.genruntimeconfig.cache
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/bin/Debug/netcoreapp3.1/cs330courses
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.deps.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.runtimeconfig.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.runtimeconfig.dev.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/bin/Debug/netcoreapp3.1/cs330courses.pdb
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.AssemblyInfo.cs
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.sourcelink.json
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.dll
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.pdb
+/Users/michaeldandrea/Desktop/Git Repos/cs330-course-registration-mdandrea123/CourseProject/obj/Debug/netcoreapp3.1/cs330courses.genruntimeconfig.cache

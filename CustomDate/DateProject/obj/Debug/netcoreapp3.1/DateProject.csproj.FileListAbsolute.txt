@@ -1,0 +1,14 @@
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/bin/Debug/netcoreapp3.1/DateProject
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/bin/Debug/netcoreapp3.1/DateProject.deps.json
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/bin/Debug/netcoreapp3.1/DateProject.runtimeconfig.json
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/bin/Debug/netcoreapp3.1/DateProject.runtimeconfig.dev.json
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/bin/Debug/netcoreapp3.1/DateProject.dll
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/bin/Debug/netcoreapp3.1/DateProject.pdb
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.AssemblyInfoInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.AssemblyInfo.cs
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.csproj.CoreCompileInputs.cache
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.sourcelink.json
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.dll
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.pdb
+/Users/michaeldandrea/Desktop/Git Repos/custom-date-mdandrea123/DateProject/obj/Debug/netcoreapp3.1/DateProject.genruntimeconfig.cache
